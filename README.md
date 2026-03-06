@@ -49,16 +49,12 @@ Dateien in `src/` kopieren, dann:
 npm run dev
 ```
 
-## Props
+## Bilder
 
-| Komponente | Prop | Beschreibung |
-|---|---|---|
-| `HeroSection` | `scrollYProgress` | `MotionValue` von `useScroll()` |
-| `OrbitalDiagram` | `size?` | Durchmesser in px (Standard: 220) |
-| `ConceptCards` | `concepts?` | Eigene Konzepte überschreiben |
-| `SchrodingerBox` | `showExplanation?` | Erklärungstext ein/aus (Standard: true) |
-| `QuantumTimeline` | `milestones?` | Eigene Timeline-Einträge |
-| `FormulaGrid` | `formulas?`, `accentColor?` | Eigene Formeln + Farbe |
+<img width="1794" height="882" alt="Screenshot 2026-03-06 222712" src="https://github.com/user-attachments/assets/289c1796-e994-48d6-a44d-dc2cfbc3f997" />
+<img width="1512" height="502" alt="Screenshot 2026-03-06 222726" src="https://github.com/user-attachments/assets/586f2d7b-70b5-4452-89c3-e53114936b7b" />
+<img width="1766" height="800" alt="Screenshot 2026-03-06 222720" src="https://github.com/user-attachments/assets/d4119a3f-fd12-4364-9a23-cf0174d75db1" />
+
 
 ## Lizenz
 
