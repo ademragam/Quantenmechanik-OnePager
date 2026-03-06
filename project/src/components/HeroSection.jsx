@@ -1,5 +1,5 @@
 import { motion, useTransform } from "framer-motion";
-import OrbitalDiagram from "./components/OrbitalDiagram";
+import OrbitalDiagram from "./OrbitalDiagram";
 
 
 export default function HeroSection({ scrollYProgress }) {
